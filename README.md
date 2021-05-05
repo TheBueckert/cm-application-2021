@@ -27,16 +27,18 @@ I have a good grasp on JS so I decided on Node.js and Express.js for the API.
  I hosted several POST and GET request handlers on appropriate endpoints for serving data.
  I sent a result code back to any clients on a successful/failed query, with the database being rolled back to it’s previous state before any failed query.
     
-    app.post('/customerupdate', cors(), async (req, res) => {
-    try {
-        await client.query("BEGIN");
-        await client.query(`update customer set address= ($1) where email=($2)`, [`${req.body.data.address}`, `${req.body.data.email}`])
-        await client.query("COMMIT").then(res.send("1"));
-    } catch (e) {
-        console.log(e)
-        await client.query("ROLLBACK").then(res.send("0"))
-    }
-    });
+```javascript
+app.post('/customerupdate', cors(), async (req, res) => {
+try {
+await client.query("BEGIN");
+await client.query(`update customer set address= ($1) where email=($2)`, [`${req.body.data.address}`, `${req.body.data.email}`])
+await client.query("COMMIT").then(res.send("1"));
+} catch (e) {
+console.log(e)
+await client.query("ROLLBACK").then(res.send("0"))
+}
+});
+```
 
 
 I built the web application earlier in the semester so all that was left was making it functional.
