@@ -1,9 +1,9 @@
 # cm-application-2021
 This repository is to contain all components of the code challenge in my application to the Critical Mass Intern program. This application is in May 2021. Let's jump in.
 
-#Work/Project Examples
+# Work/Project Examples
 
-###CPSC 471 Project
+### CPSC 471 Project
 One of the most recent projects I will mention is a group project at University of Calgary… or at least it was intended to be.
 It was a team project for the class CPSC 471 *Database Management Systems*. The goal was to build a full-fledged CRUD web application with an SQL database,
  an API and a responsive web application. I was in charge of building the web app for my team.
@@ -67,8 +67,8 @@ Not everything in the original design could be implemented in time. Was it the b
 
 Image
 
-###Go-to-logic
-####[Link to Go To Logic](https://gotologic.ca/)
+### Go-to-logic
+#### [Link to Go To Logic](https://gotologic.ca/)
 
 I was recently contacted by a small Quebec based development company.
  They were seeking a freelance Web Developer to jump into their React projects and fix bugs.
@@ -80,10 +80,10 @@ I was recently contacted by a small Quebec based development company.
 <br>
 <br>
 
-#Inspiration
+# Inspiration
 
-###Kotlin Project
-####[Link to build on github](https://github.com/TheBueckert/CodingProject)
+### Kotlin Project
+#### [Link to build on github](https://github.com/TheBueckert/CodingProject)
 
 This point is a mixture of a project example and inspiration.
  It’s not directly related to web development, so here it lies under the inspiration header, but I see it as important in my growth.
@@ -100,8 +100,8 @@ Well let me tell you friend, Kotlin is *amazing*!
  Capitalizing on new technologies to make something massive is something that inspires me deeply.
  Maybe I could make something cool like Slippi...
 
-###Slippi
-####[Link to Project Slippi](https://slippi.gg/)
+### Slippi
+#### [Link to Project Slippi](https://slippi.gg/)
 
 I am a massive, diehard fan of *Super Smash Brothers Melee* for the Nintendo GameCube.
  I could rant about it all day, but I am not alone.
@@ -122,8 +122,8 @@ Fizzi frequently hosts coding sessions on Twitch.tv.
  I wish to gain the skills to build something revolutionary like Fizzi has.
  Also, if you have a GameCube Controller and USB adapter, I encourage you to check it out! Feel free to ask me if you want any tips!
 
-###CSS Animations
-####[Link to a cool example](https://www.reddit.com/r/webdev/comments/mboqa2/the_tilt_to_make_room_for_a_menu_is_a_nice_effect/)
+### CSS Animations
+#### [Link to a cool example](https://www.reddit.com/r/webdev/comments/mboqa2/the_tilt_to_make_room_for_a_menu_is_a_nice_effect/)
 
 In my free time I also peruse web development blogs and Reddits.
  I recently noticed a cool CSS animation, that captures another aspect of development that I like.
@@ -135,7 +135,7 @@ In my free time I also peruse web development blogs and Reddits.
 <br>
 <br>
 
-#Focus
+# Focus
 
 A major goal for me would be ***learning as much as possible*** in this internship.
  I seek the internship because I am the type of person who learns by doing.
