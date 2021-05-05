@@ -121,7 +121,7 @@ Fizzi frequently hosts coding sessions on Twitch.tv.
  I like to pop in there to watch and ask him some questions.
  Interestingly he states that Project Slippi is "about 45% Javascript, 25% Assembly, 20% C, and a smorgasbord of other languages".
  Fizzi and Slippi to me are shining examples of accomplishing something astounding through perseverance and a well-rounded knowledge base.
- If I develop my skills too, and dedicate myself, I know I can achieve amazing things too.
+ If I develop my skills and dedicate myself, I know I can achieve amazing things too.
  I wish to gain the skills to build something revolutionary like Fizzi has.
  Also, if you have a GameCube Controller and USB adapter, I encourage you to check it out! Feel free to ask me if you want any tips!
 
@@ -157,7 +157,7 @@ The last thing I would take advantage of during the internship is the ***environ
  I like to dedicate myself to work and apply my all.
  As a less experienced developer, its easy to second guess myself or face hesitancies in development.
  But with a team, I like to do the best I can to help *us* do the best we can.
- The internship would be a position for me to really go the extra mile, read the docs, be sure of my work and level up for a bigger cause.
+ The internship would be a position for me to really go the extra mile, read the docs, and make myself effective by levelling up for a bigger cause.
  When my mistakes are no longer just my own and others will suffer, it gives me a steady reason to build upon and grow as much as possible.
  
 <br>
