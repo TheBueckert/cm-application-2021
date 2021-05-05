@@ -61,6 +61,7 @@ businessLoginButton.addEventListener('click', ()=>{
 })
 ```
 
+![Image of the project](https://github.com/TheBueckert/cm-application-2021/blob/main/cpsc%20471%20picture.JPG)
 
 Not everything in the original design could be implemented in time. Was it the best thing ever? No way. It was a one-man operation after all.
  The process was draining and frustrating, but I did it. I successfully built a full stack CRUD application in 3 days.
@@ -68,7 +69,6 @@ Not everything in the original design could be implemented in time. Was it the b
  The real gain from this project was the new knowledge.
  I can analyze applications on a much deeper level, and it excites me thinking about what I could build with these new skills!
 
-![Image of the project](https://github.com/TheBueckert/cm-application-2021/blob/main/cpsc%20471%20picture.JPG)
 
 ### Go-to-logic
 #### [Link to Go To Logic](https://gotologic.ca/)
